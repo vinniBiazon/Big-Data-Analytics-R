@@ -1,0 +1,5 @@
+Customer churn occurs when customers or subscribers stop doing business with a company or service.
+
+One sector in which knowing and predicting cancellation rates is particularly useful is the telecommunications sector, because most customers have several options to choose from within a geographic location.
+
+In this project, I predicted the churn of customers using a telecommunications data set offered for free on the IBM Sample Data Sets portal. I used logistic regression, the decision tree and the random forest as models of Machine Learning.
