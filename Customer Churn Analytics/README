@@ -4,4 +4,4 @@ One sector in which knowing and predicting cancellation rates is particularly us
 
 In this project, I predicted the customer churn using a free IBM Sample Data Sets Portal telecommunications data set. I used logistic regression, decision tree and random forest as Machine Learning models.
 
-https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/
+https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113
