@@ -1,0 +1,5 @@
+I believe that many already know Yahoo Finance, a website that provides financial news and stock quotes. In this study, I recreated the Candlestick Chart on the website and added the Bollinger Bands to the chart.
+
+Bollinger bands are a volatility indicator to predict whether an asset is overbought, stable or oversold. More volatile markets have the most distant bands from the average, while less volatile markets have the banks closer to the average.
+
+This is an initial study, where several subsequent analyzes could be made, such as predictive modeling to solve business problems.
